@@ -20,9 +20,9 @@
   <b>
     📫 Get in Touch
   </b>
-    <br>• Email: wonalee1a@gmail.com
+    <br>• Email: <a href="mailto:wonalee1a@gmail.com">wonalee1a@gmail.com</a>
     <br>• Personal site: upcoming
-    <br>• Knitting IG: @wonaknits
+    <br>• Knitting IG: <a href="https://instagram.com/wonaknits">@wonaknits</a>
 </p>
 
 <!---
