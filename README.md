@@ -14,6 +14,7 @@
 
 
 🌱 I’m seeking a (summer) job!
+<br> 💼 My resume: <a href="https://github.com/wonalee/resume/blob/main/resume.pdf">resume.pdf</a>
 
 
 <p align="left">
