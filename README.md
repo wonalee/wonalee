@@ -10,7 +10,7 @@
 
 
 <b>:telescope: 2024 goal</b>
-<br>I am currently working on a hobby project called hexametron which stemmed from my interest in languages - it is a tool that analyzes dactylic hexameter in Ancient Greek. I'm hoping to develop this project further with a GUI. I also want to learn a new language ⭐. 
+<br>I am currently working on a hobby project called hexametron which stemmed from my interest in languages - it is a tool that analyzes dactylic hexameter in Ancient Greek. I'm hoping to develop this project further with a GUI ⭐. 
 
 
 🌱 I’m seeking a (summer) job!
