@@ -3,7 +3,7 @@
   <samp>
     👋 Hi, I’m Wona - a student studying Informatics in Oslo. 
     <br>I also have a background in Classics and am a Hellenist 🏛️.
-    <br>I'm a fantasy nerd, a lover of languages, a knitter, and a converted cat-person 💞️.
+    <br>I like reading fantasy novels, am a lover of languages, a knitter, and a converted cat-person 💞️.
     <br>
   </samp>
 </p>
